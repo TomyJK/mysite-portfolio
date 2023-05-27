@@ -1,0 +1,91 @@
+.container1 {
+    position: relative;
+   
+}
+
+
+
+.sky {
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
+.text1 {
+    position: absolute;
+    left: 450px;
+    top: 200px;
+    font-size: 150px;
+    color: aqua;
+    font-family: gabriola;
+}
+
+.text2 {
+    position: absolute;
+    left: 550px;
+    top: 350px;
+    font-size: 50px;
+    color: aqua;
+    font-family: futara;
+    
+}
+
+.container2 {
+    display: flex;
+  justify-content: center;
+   align-items: center;
+    width: 100vw;
+    height: 40vh;
+    
+}  
+
+.container3 {
+    display: flex;
+  justify-content: center;
+   align-items: center;
+    width: 100vw;
+
+    
+}  
+      
+   
+
+
+
+.mephoto {
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+   
+}
+.text3{
+  color: aqua;
+}
+
+.container4{
+    display: flex;
+  justify-content: center;
+   align-items: center;
+   width: 100vw;
+  
+} 
+
+.container5{
+    display: flex;
+  justify-content: center;
+   align-items: center;
+   width: 20vw;
+   
+} 
+.text4 {
+    font-size: 20px;
+}
+.container {
+    background-color: aqua;
+}
+.containerx {
+    width: 100vw;
+    background-color: aqua;
+    height: 40vh;
+}
